@@ -6,19 +6,19 @@ a:link {
 }
 
 a:visited {
-  color: pink;
+  color: magenta;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: red;
+  color: lime;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: yellow;
+  color: white;
   background-color: transparent;
   text-decoration: underline;
 }
