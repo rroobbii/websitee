@@ -60,3 +60,6 @@ footer {
     height: auto;
   }
 }
+a:hover {
+  color: magenta;
+}
